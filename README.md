@@ -1,4 +1,4 @@
-# Official Code for *An End-to-end Learning Approach for Solving Capacitated Location-Routing Problems*
+# An End-to-end Learning Approach for Solving Capacitated Location-Routing Problems
 
 This repository contains the official implementation of the paper **“An End-to-end Learning Approach for Solving Capacitated Location-Routing Problems”**.
 
