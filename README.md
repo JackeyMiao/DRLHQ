@@ -11,7 +11,7 @@ Our method provides an end-to-end learning framework for solving the **Capacitat
 The overall pipeline of the proposed method is illustrated below.
 
 <p align="center">
-  <img src="assets/Pipeline.pdf" width="85%">
+  <img src="assets/Pipeline.png" width="85%">
 </p>
 
 ---
